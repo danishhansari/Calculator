@@ -5,4 +5,4 @@ const DigitButtons = ({ dispatch, digit }) => {
     )
 }
 
-export default DigitButtons
+export default DigitButtons;
